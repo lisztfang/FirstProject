@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%="Hello world" %>
+
+<%="Hello world 2" %>
 </body>
 </html>
